@@ -1,6 +1,6 @@
 # DevSorteio 🎲
 
-Projeto desenvolvido durante os estudos de JavaScript no curso do [DevClub](https://devclub.com.br/), ministrado por Rodolfo Mori.  
+Projeto desenvolvido durante os estudos de JavaScript no curso do DevClub, ministrado por Rodolfo Mori.  
 O objetivo é criar uma aplicação simples que sorteia um número entre dois valores definidos pelo usuário.
 
 ## 💻 Projeto
